@@ -1,0 +1,4 @@
+com\example\demo\DemoApplicationTests.class
+com\receiptprocessor\model\ReceiptTest.class
+com\receiptprocessor\model\ItemTest.class
+com\receiptprocessor\service\ReceiptServiceTest.class
